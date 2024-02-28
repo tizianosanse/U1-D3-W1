@@ -1,0 +1,64 @@
+#header {
+  height: 20vh;
+}
+.logo {
+  height: 80px;
+  width: 200px;
+  margin-left: 42%;
+}
+.titleheader {
+  text-align: center;
+  margin-top: 3%;
+  background-color: rgba(250, 235, 215, 0.341);
+  padding: 1em;
+  border-top: solid 2px antiquewhite;
+}
+
+#main {
+  margin-left: 30%;
+}
+header h1 {
+  text-align: center;
+  margin-top: 100px;
+}
+footer {
+  margin-left: 25%;
+}
+footer span {
+  margin-right: 1px;
+}
+header span {
+  margin-right: 1px;
+  color: green;
+}
+.spantitolo {
+  font-weight: bold;
+}
+.desc-img {
+  color: rgba(128, 128, 128, 0.649);
+  margin-left: 20%;
+}
+#main div + h4 {
+  margin-top: 100px;
+}
+.main1 h5 {
+  color: rgb(246, 88, 31);
+  margin: 0;
+}
+.link1 {
+  border-left: solid 1px rgba(223, 102, 42, 0.714);
+}
+
+.link2 {
+  padding: 0.5em;
+  display: flex;
+  flex-direction: column;
+}
+.bordingredients h5 {
+  border-top: solid 1px rgba(10, 167, 235, 0.185);
+  padding-top: 2em;
+}
+.bordermethod h5 {
+  border-top: solid 1px rgba(43, 200, 239, 0.274);
+  padding-top: 2em;
+}
